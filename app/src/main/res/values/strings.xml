@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleAdapterCustom2</string>
+    <string name="textview">TextView</string>
+    <array name="load">
+        <item>41</item>
+        <item>48</item>
+        <item>22</item>
+        <item>35</item>
+        <item>30</item>
+        <item>67</item>
+        <item>51</item>
+        <item>88</item>
+        <item>76</item>
+    </array>
+</resources>
